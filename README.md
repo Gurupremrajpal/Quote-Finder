@@ -1,5 +1,4 @@
 # Quote-Finder
-
 <br>
 <img src="Quote Finder.gif"> </img>
 <br>
