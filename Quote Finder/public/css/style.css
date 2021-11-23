@@ -1,0 +1,31 @@
+#head {
+  text-align: center;
+  font-family: cursive;
+  color: rgb(0, 0, 0);
+  
+}
+
+.authorDetails {
+  display: flex;
+  height: 100%;
+}
+
+.authorDetails .authorPotrait,
+.authorDetails .authorInfo  {
+  flex: 1;
+  display: flex;
+}
+
+#bodyData1 {
+  text-align: center;
+  background-color: burlywood;
+}
+
+#bodyData2 {
+  text-align: center;
+  background-color: burlywood;
+}
+
+::placeholder {
+   color: white;
+}
