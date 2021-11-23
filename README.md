@@ -8,7 +8,7 @@
 
 # Tech Stack used - 
 Front-end : HTML5, CSS3, Bootstrap <br>
-Back-end : JavaScript, jQuery, APIs, Node.JS, Express, EJS, MySQL <br>
+Back-end : JavaScript, jQuery, Node.JS, Express, EJS, MySQL <br>
 
 Made ✌🏻 by <a href="https://www.linkedin.com/in/guruprem-singh-rajpal-67b486122/"> Guruprem Rajpal </a>
 <br>
